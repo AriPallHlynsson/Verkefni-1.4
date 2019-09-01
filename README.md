@@ -1,12 +1,12 @@
 # Verkefni-1.4
-<!DOCTYPE html>
+<!DOCTYPE HTML>
     <html>
-        
+        <title>LOL</title>
             <meta charset="utf-8" /> 
-            <title>LOL</title>
-            <header><h1><strong>ELVIS PRESLEY KONUNGUR ROKKSINS</strong></header></html></h1>
+            
+            <header><h1><strong>ELVIS PRESLEY KONUNGUR ROKKSINS</strong></header></h1>
                           
-p><strong>Elvis Presley</strong> fæddist 8.
+<p><strong>Elvis Presley</strong> fæddist 8.
 <sub>janúar</sub> 1935 í Tupelo, Mississipifylki í Bandaríkjunum. Fyrir
 tónlistaráhugamenn má geta þess að önnur breiðskífa Nick Cave & The Bad Seeds heitir
 The Firstborn is Dead sem vísar til þess að Elvis átti tvíburabróður sem fæddist andvana,
@@ -26,5 +26,6 @@ the bathroom to read</em>“ eða eitthvað í þá áttina</p>
 </style>
                 </head>
                   </body>
-            </css>
+                  </html>
       
+
